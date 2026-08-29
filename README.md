@@ -1,4 +1,3 @@
-# Words_Length_Calculator
 # Words Length Calculator
 
 A simple web app that counts the number of words in a sentence typed by the user.
